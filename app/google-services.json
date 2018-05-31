@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "419061605391",
+    "firebase_url": "https://login-1625e.firebaseio.com",
+    "project_id": "login-1625e",
+    "storage_bucket": "login-1625e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419061605391:android:2d910bd7ce52852a",
+        "android_client_info": {
+          "package_name": "com.sebastiangiraldo.arduinobt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419061605391-7q6mk08sk5titd9613nfjug9kbceh88b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sebastiangiraldo.arduinobt",
+            "certificate_hash": "f9e9c60bfb5b79ec24b6dc30cb31403bad746eeb"
+          }
+        },
+        {
+          "client_id": "419061605391-rkt8q43vgaf5h20smq0d71qd00bmno03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDUIvcBQT0d9F9fwvMNrC4wHDBnI63nJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419061605391-rkt8q43vgaf5h20smq0d71qd00bmno03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
